@@ -1,0 +1,7 @@
+{
+  "name": "blackend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
